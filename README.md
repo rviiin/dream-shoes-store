@@ -1,5 +1,5 @@
 # DreamShoesStore 
-
+An e-commerce website offering a wide collection of stylish footwear from top brands, with easy shopping and affordable prices.
 ## Preview  
 To see a preview of the website design, check the images below:  
 - **Homepage1.png**  
